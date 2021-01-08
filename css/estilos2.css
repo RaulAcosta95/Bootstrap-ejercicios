@@ -27,3 +27,6 @@ display: inline-block;
     background-color: rgba(0, 0, 0, 0.1);
     color: white;
 }
+#LOGO{
+    min-height: 15vh;
+}
