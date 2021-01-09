@@ -30,3 +30,6 @@ display: inline-block;
 #LOGO{
     min-height: 15vh;
 }
+.badge_right{
+    text-align: right;
+    }
