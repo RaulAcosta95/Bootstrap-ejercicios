@@ -33,3 +33,7 @@ display: inline-block;
 .badge_right{
     text-align: right;
     }
+
+    #lobo{
+        margin-top:10vh;
+    }
